@@ -1,0 +1,12 @@
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\Shapes\bin\Debug\Shapes.pdb
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\Shapes\obj\Debug\Shapes.pdb
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\Shapes\bin\Debug\Shapes.dll.config
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\Shapes\bin\Debug\Shapes.dll
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\Shapes\obj\Debug\Shapes.dll
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\Shapes\bin\Debug\Shapes.dll.config
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\Shapes\bin\Debug\Shapes.dll
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\Shapes\bin\Debug\Shapes.pdb
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\Shapes\obj\Debug\Shapes.dll
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\Shapes\obj\Debug\Shapes.pdb
