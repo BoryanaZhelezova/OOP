@@ -1,0 +1,14 @@
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.dll
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\StudentsAndWorkers\bin\Debug\Utilities.dll
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\StudentsAndWorkers\bin\Debug\Utilities.pdb
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.csprojResolveAssemblyReference.cache
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.dll
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.dll
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\StudentsAndWorkers\bin\Debug\Utilities.dll
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\StudentsAndWorkers\bin\Debug\Utilities.pdb
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.csprojResolveAssemblyReference.cache
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.dll
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb

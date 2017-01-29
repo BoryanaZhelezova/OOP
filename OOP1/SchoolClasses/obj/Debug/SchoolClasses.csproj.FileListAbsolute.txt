@@ -1,0 +1,14 @@
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\SchoolClasses\bin\Debug\SchoolClasses.dll
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\SchoolClasses\bin\Debug\SchoolClasses.pdb
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\SchoolClasses\bin\Debug\Utilities.dll
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\SchoolClasses\bin\Debug\Utilities.pdb
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\SchoolClasses\obj\Debug\SchoolClasses.csprojResolveAssemblyReference.cache
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\SchoolClasses\obj\Debug\SchoolClasses.dll
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP-Principles-Part -One\SchoolClasses\obj\Debug\SchoolClasses.pdb
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\SchoolClasses\bin\Debug\SchoolClasses.dll
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\SchoolClasses\bin\Debug\SchoolClasses.pdb
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\SchoolClasses\bin\Debug\Utilities.dll
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\SchoolClasses\bin\Debug\Utilities.pdb
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\SchoolClasses\obj\Debug\SchoolClasses.csprojResolveAssemblyReference.cache
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\SchoolClasses\obj\Debug\SchoolClasses.dll
+D:\Programmierung\OOP-Principles-Part -One\OOP-Principles-Part -One\SchoolClasses\obj\Debug\SchoolClasses.pdb
