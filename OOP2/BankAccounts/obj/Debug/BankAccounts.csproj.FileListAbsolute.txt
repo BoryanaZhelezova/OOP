@@ -1,0 +1,16 @@
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\BankAccounts\bin\Debug\BankAccounts.pdb
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\BankAccounts\obj\Debug\BankAccounts.pdb
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\BankAccounts\obj\Debug\BankAccounts.csprojResolveAssemblyReference.cache
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\BankAccounts\bin\Debug\Utilities.dll
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\BankAccounts\bin\Debug\Utilities.pdb
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\BankAccounts\bin\Debug\BankAccounts.dll.config
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\BankAccounts\bin\Debug\BankAccounts.dll
+D:\Telerik2016\TelerikSeson2016\Programing C#\OOP\OOP- Principles -Part 2-Homework\BankAccounts\obj\Debug\BankAccounts.dll
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\BankAccounts\bin\Debug\BankAccounts.dll.config
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\BankAccounts\bin\Debug\BankAccounts.dll
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\BankAccounts\bin\Debug\BankAccounts.pdb
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\BankAccounts\bin\Debug\Utilities.dll
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\BankAccounts\bin\Debug\Utilities.pdb
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\BankAccounts\obj\Debug\BankAccounts.csprojResolveAssemblyReference.cache
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\BankAccounts\obj\Debug\BankAccounts.dll
+D:\Programmierung\OOP- Principles -Part 2-Homework\OOP- Principles -Part 2-Homework\BankAccounts\obj\Debug\BankAccounts.pdb
